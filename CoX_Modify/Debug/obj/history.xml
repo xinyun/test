@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DLPC1766 -ID:\My Documents\Desktop\cox -ID:\My Documents -ID:\My Documents\Desktop\cox\libcox -ID:\My Documents\Desktop">
+      <target file="xcore.o" lastModified="14485f8a936">
+         <source file="..\..\..\libcox\xcore.c" lastModified="1424a15cbd9"/>
+      </target>
+      <target file="xdebug.o" lastModified="14485f8a629">
+         <source file="..\..\..\libcox\xdebug.c" lastModified="1424a15cbdb"/>
+      </target>
+      <target file="xuart.o" lastModified="14486e7a5a9">
+         <source file="..\..\..\libcox\xuart.c" lastModified="1424a15cbf5"/>
+      </target>
+      <target file="xi2c.o" lastModified="14486e7a2f8">
+         <source file="..\..\..\libcox\xi2c.c" lastModified="1424a15cbeb"/>
+      </target>
+      <target file="xrtc.o" lastModified="14485f8b815">
+         <source file="..\..\..\libcox\xrtc.c" lastModified="1424a15cbee"/>
+      </target>
+      <target file="startup_coide.o" lastModified="14485f8a438">
+         <source file="..\..\..\startup\src\startup_coide.c" lastModified="14485e90683"/>
+      </target>
+      <target file="xspi.o" lastModified="14486e7a1f0">
+         <source file="..\..\..\libcox\xspi.c" lastModified="1424a15cbf0"/>
+      </target>
+      <target file="xtimer.o" lastModified="14486e7a48c">
+         <source file="..\..\..\libcox\xtimer.c" lastModified="1424a15cbf3"/>
+      </target>
+      <target file="main.o" lastModified="14490020a05">
+         <source file="..\..\..\main.c" lastModified="14490001571"/>
+      </target>
+      <target file="xwdt.o" lastModified="14485f8b0da">
+         <source file="..\..\..\libcox\xwdt.c" lastModified="1424a15cbf6"/>
+      </target>
+      <target file="xpwm.o" lastModified="14486e7a3ad">
+         <source file="..\..\..\libcox\xpwm.c" lastModified="1424a15cbed"/>
+      </target>
+      <target file="xsysctl.o" lastModified="14485f8b329">
+         <source file="..\..\..\libcox\xsysctl.c" lastModified="1424a15cbf2"/>
+      </target>
+      <target file="xadc.o" lastModified="14486e7a01c">
+         <source file="..\..\..\libcox\xadc.c" lastModified="1424a15cbd7"/>
+      </target>
+      <target file="xgpio.o" lastModified="14486e79ecc">
+         <source file="..\..\..\libcox\xgpio.c" lastModified="1424a15cbdd"/>
+      </target>
+   </processor>
+</history>

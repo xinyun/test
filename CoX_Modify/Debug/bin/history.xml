@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.3 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=CoX_Modify.map -O0 --gc-sections -LC:\CooCox\CoIDE1.7.5\configuration\ProgramData\CoX_Modify -TC:\CooCox\CoIDE1.7.5\configuration\ProgramData\CoX_Modify/link.ld -g">
+      <target file="CoX_Modify.elf" lastModified="14490020d7c">
+         <source file="..\obj\startup_coide.o" lastModified="14485f8a438"/>
+         <source file="..\obj\xdebug.o" lastModified="14485f8a629"/>
+         <source file="..\obj\xcore.o" lastModified="14485f8a936"/>
+         <source file="..\obj\xgpio.o" lastModified="14486e79ecc"/>
+         <source file="..\obj\xadc.o" lastModified="14486e7a01c"/>
+         <source file="..\obj\main.o" lastModified="14490020a05"/>
+         <source file="..\obj\xwdt.o" lastModified="14485f8b0da"/>
+         <source file="..\obj\xsysctl.o" lastModified="14485f8b329"/>
+         <source file="..\obj\xspi.o" lastModified="14486e7a1f0"/>
+         <source file="..\obj\xi2c.o" lastModified="14486e7a2f8"/>
+         <source file="..\obj\xrtc.o" lastModified="14485f8b815"/>
+         <source file="..\obj\xpwm.o" lastModified="14486e7a3ad"/>
+         <source file="..\obj\xtimer.o" lastModified="14486e7a48c"/>
+         <source file="..\obj\xuart.o" lastModified="14486e7a5a9"/>
+      </target>
+   </processor>
+</history>

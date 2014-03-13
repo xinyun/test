@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\My Documents\Desktop\cox /ID:\My Documents /ID:\My Documents\Desktop\cox\libcox /ID:\My Documents\Desktop">
+      <source file="..\..\..\libcox\xtimer.c" lastModified="1424a15cbf3">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_timer.h"/>
+         <include file="..\..\..\libcox\xtimer.h"/>
+      </source>
+      <source file="..\..\..\libcox\xrtc.h" lastModified="1424a15cbef">
+      </source>
+      <source file="..\..\..\libcox\xhw_timer.h" lastModified="1424a15cbe8">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xrtc.c" lastModified="1424a15cbee">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_rtc.h"/>
+         <include file="..\..\..\libcox\xrtc.h"/>
+      </source>
+      <source file="..\..\..\libcox\xadc.h" lastModified="1424a15cbd8">
+      </source>
+      <source file="..\..\..\libcox\xhw_memmap.h" lastModified="1424a15cbe2">
+      </source>
+      <source file="..\..\..\libcox\xwdt.h" lastModified="1424a15cbf7">
+      </source>
+      <source file="..\..\..\libcox\xgpio.h" lastModified="0">
+      </source>
+      <source file="..\..\..\libcox\xhw_pwm.h" lastModified="1424a15cbe5">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xadc.c" lastModified="1424a15cbd7">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_adc.h"/>
+         <include file="..\..\..\libcox\xadc.h"/>
+      </source>
+      <source file="..\..\..\libcox\xwdt.c" lastModified="1424a15cbf6">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_wdt.h"/>
+         <include file="..\..\..\libcox\xwdt.h"/>
+      </source>
+      <source file="..\..\..\libcox\xgpio.c" lastModified="1424a15cbdd">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+      </source>
+      <source file="..\..\..\libcox\xcore.h" lastModified="1424a15cbda">
+      </source>
+      <source file="..\..\..\libcox\xcore.c" lastModified="1424a15cbd9">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_nvic.h" lastModified="1424a15cbe4">
+      </source>
+      <source file="..\..\..\libcox\xhw_uart.h" lastModified="1424a15cbe9">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_types.h" lastModified="1424a15cfd1">
+      </source>
+      <source file="..\..\..\libcox\xi2c.h" lastModified="1424a15cbec">
+      </source>
+      <source file="..\..\..\libcox\xspi.h" lastModified="1424a15cbf1">
+      </source>
+      <source file="..\..\..\libcox\xi2c.c" lastModified="1424a15cbeb">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_i2c.h"/>
+         <include file="..\..\..\libcox\xi2c.h"/>
+      </source>
+      <source file="..\..\..\libcox\xspi.c" lastModified="1424a15cbf0">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_spi.h"/>
+         <include file="..\..\..\libcox\xspi.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_rtc.h" lastModified="1424a15cbe6">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_ints.h" lastModified="1424a15cbe2">
+      </source>
+      <source file="..\..\..\main.c" lastModified="14490001571">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\xgpio.h"/>
+      </source>
+      <source file="..\..\..\libcox\xuart.h" lastModified="1424a15cbf6">
+      </source>
+      <source file="..\..\..\libcox\xhw_adc.h" lastModified="1424a15cbe0">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_wdt.h" lastModified="1424a15cbea">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xpwm.h" lastModified="1424a15cbee">
+      </source>
+      <source file="..\..\..\libcox\xuart.c" lastModified="1424a15cbf5">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_uart.h"/>
+         <include file="..\..\..\libcox\xuart.h"/>
+      </source>
+      <source file="..\..\..\libcox\xpwm.c" lastModified="1424a15cbed">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_pwm.h"/>
+         <include file="..\..\..\libcox\xpwm.h"/>
+      </source>
+      <source file="..\..\..\libcox\xdebug.h" lastModified="1424a15cbdb">
+      </source>
+      <source file="..\..\..\libcox\xhw_sysctl.h" lastModified="1424a15cbe8">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+      </source>
+      <source file="..\..\..\libcox\xdebug.c" lastModified="1424a15cbdb">
+      </source>
+      <source file="..\..\..\libcox\xsysctl.h" lastModified="1424a15cbf2">
+      </source>
+      <source file="..\..\..\libcox\xsysctl.c" lastModified="1424a15cbf2">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_i2c.h" lastModified="1424a15cbe2">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_gpio.h" lastModified="1424a15cbe0">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\xgpio.h" lastModified="14490020022">
+         <include file="..\..\..\libcox\gpio.h"/>
+         <include file="..\..\..\CoX_base.h"/>
+      </source>
+      <source file="..\..\..\startup\src\startup_coide.c" lastModified="14485e90683">
+      </source>
+      <source file="..\..\..\libcox\xhw_spi.h" lastModified="1424a15cbe7">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xtimer.h" lastModified="1424a15cbf4">
+      </source>
+   </includePath>
+   <includePath signature="/ID:\My Documents\Desktop\cox /ID:\My Documents\Desktop\cox\libcox /ID:\My Documents\Desktop">
+      <source file="..\..\..\libcox\xtimer.c" lastModified="1424a15cbf3">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_timer.h"/>
+         <include file="..\..\..\libcox\xtimer.h"/>
+      </source>
+      <source file="..\..\..\libcox\xrtc.h" lastModified="1424a15cbef">
+      </source>
+      <source file="..\..\..\libcox\xrtc.c" lastModified="1424a15cbee">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_rtc.h"/>
+         <include file="..\..\..\libcox\xrtc.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_memmap.h" lastModified="1424a15cbe2">
+      </source>
+      <source file="..\..\..\libcox\xwdt.h" lastModified="1424a15cbf7">
+      </source>
+      <source file="..\..\..\libcox\xadc.c" lastModified="1424a15cbd7">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_adc.h"/>
+         <include file="..\..\..\libcox\xadc.h"/>
+      </source>
+      <source file="..\..\..\libcox\xwdt.c" lastModified="1424a15cbf6">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_wdt.h"/>
+         <include file="..\..\..\libcox\xwdt.h"/>
+      </source>
+      <source file="..\..\..\libcox\xgpio.c" lastModified="1424a15cbdd">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+      </source>
+      <source file="..\..\..\libcox\xcore.h" lastModified="1424a15cbda">
+      </source>
+      <source file="..\..\..\libcox\xcore.c" lastModified="1424a15cbd9">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_nvic.h" lastModified="1424a15cbe4">
+      </source>
+      <source file="..\..\..\libcox\xi2c.c" lastModified="1424a15cbeb">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_i2c.h"/>
+         <include file="..\..\..\libcox\xi2c.h"/>
+      </source>
+      <source file="..\..\..\libcox\xspi.c" lastModified="1424a15cbf0">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_spi.h"/>
+         <include file="..\..\..\libcox\xspi.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_rtc.h" lastModified="1424a15cbe6">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_ints.h" lastModified="1424a15cbe2">
+      </source>
+      <source file="..\..\..\libcox\xhw_wdt.h" lastModified="1424a15cbea">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xuart.c" lastModified="1424a15cbf5">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_uart.h"/>
+         <include file="..\..\..\libcox\xuart.h"/>
+      </source>
+      <source file="..\..\..\libcox\xpwm.c" lastModified="1424a15cbed">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_gpio.h"/>
+         <include file="..\..\..\libcox\xgpio.h"/>
+         <include file="..\..\..\libcox\xhw_pwm.h"/>
+         <include file="..\..\..\libcox\xpwm.h"/>
+      </source>
+      <source file="..\..\..\libcox\xdebug.h" lastModified="1424a15cbdb">
+      </source>
+      <source file="..\..\..\libcox\xhw_sysctl.h" lastModified="1424a15cbe8">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+      </source>
+      <source file="..\..\..\libcox\xdebug.c" lastModified="1424a15cbdb">
+      </source>
+      <source file="..\..\..\libcox\xsysctl.h" lastModified="1424a15cbf2">
+      </source>
+      <source file="..\..\..\libcox\xsysctl.c" lastModified="1424a15cbf2">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\libcox\xhw_gpio.h" lastModified="1424a15cbe0">
+         <include file="..\..\..\libcox\xhw_types.h"/>
+         <include file="..\..\..\libcox\xhw_ints.h"/>
+         <include file="..\..\..\libcox\xcore.h"/>
+         <include file="..\..\..\libcox\xhw_memmap.h"/>
+         <include file="..\..\..\libcox\xhw_nvic.h"/>
+         <include file="..\..\..\libcox\xhw_sysctl.h"/>
+         <include file="..\..\..\libcox\xdebug.h"/>
+         <include file="..\..\..\libcox\xsysctl.h"/>
+      </source>
+      <source file="..\..\..\startup\src\startup_coide.c" lastModified="14485e90683">
+      </source>
+   </includePath>
+</dependencies>
